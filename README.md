@@ -9,8 +9,7 @@ marketing optimization,and customer segmentation.
 📸 Dashboard Screenshots
 
 Main Dashboard View
-![Main Dashboard](<img width="1460" height="814" alt="SufiyanBi1" src="https://github.com/user-attachments/assets/d150bc08-af0d-4b87-b7a6-42a2a8d9b324" />
-)
+!(<img width="1460" height="814" alt="SufiyanBi1" src="https://github.com/user-attachments/assets/d150bc08-af0d-4b87-b7a6-42a2a8d9b324" />)
 
 
 
