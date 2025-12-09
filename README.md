@@ -103,9 +103,9 @@ Business Intelligence
 
 Storytelling with Data
 
-Dashboard UI/UX Design
-👨‍💻 Author
+Dashboard UI/UX Design.
 
+👨‍💻 Author
 Mohammed Sufiyan
 📍 India
 💼 Aspiring Data Analyst / Data Scientist
