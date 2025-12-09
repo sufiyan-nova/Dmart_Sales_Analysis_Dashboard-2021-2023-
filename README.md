@@ -11,13 +11,13 @@ marketing optimization,and customer segmentation.
 Main Dashboard View
 !(<img width="1460" height="814" alt="SufiyanBi1" src="https://github.com/user-attachments/assets/d150bc08-af0d-4b87-b7a6-42a2a8d9b324" />)
 
-
-
 Low Performing Products Section
-
-
+!(<img width="508" height="245" alt="low_performing" src="https://github.com/user-attachments/assets/ac5e4b9d-d9d1-4035-9262-e5bdf8bac0f0" />
 
 Marketing Performance
+!(<img width="1448" height="815" alt="sufiyanBI2" src="https://github.com/user-attachments/assets/33630376-9d0d-4a88-a48a-6d61d6379344" />)
+
+
 
 🚀 Key Features of the Dashboard
 
