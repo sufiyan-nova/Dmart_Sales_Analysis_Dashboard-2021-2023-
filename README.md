@@ -108,7 +108,9 @@ Dashboard UI/UX Design.
 👨‍💻 Author
 Mohammed Sufiyan
 📍 India
+
 💼 Aspiring Data Analyst / Data Scientist
+
 LinkedIn:www.linkedin.com/in/mohammed-sufiyan-malik-0a7065399
 
 
